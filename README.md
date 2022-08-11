@@ -17,4 +17,9 @@ eCommerce application based on the microservices architecture built using Spring
 - **Authentication Service:** Creates user account and handles username/password authentication.
 - **Payment Service:** Handles payment requests from the client and makes a subsequent request to Stripe API for money deduction. 
 
+**Execution in local system**
 
+- **Git clone this repository (Link)[https://github.com/RohanWork/E-Commerce.git]
+- **Open command prompt in yout cloned repository
+- **Type start-all.sh command in command prompt
+- **Bingo
